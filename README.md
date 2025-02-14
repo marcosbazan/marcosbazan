@@ -17,7 +17,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marcos318888/marcos318888/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/marcos318888/marcos318888/output/snake.yml" alt="Snake animation" />
 
 ###
 
