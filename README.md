@@ -17,10 +17,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marcos318888/marcos318888/output/snake.svl" alt="Snake animation" />
-
-###
-
 <h2 align="left">Programming Languages</h2>
 
 ###
