@@ -1,10 +1,8 @@
-📘 Marcos Bazán – Perfil y portafolio
+Marcos Bazán Fernández
 
-Visita mi sitio web
+Desarrollador Junior | Madrid, España
 
-👋 ¡Hola! Sobre mí
-
-Soy Marcos Bazán Fernández, desarrollador junior de Madrid, España. Apasionado por la tecnología, siempre en búsqueda de crecer y aprender nuevos lenguajes, frameworks y herramientas.
+Apasionado por la tecnología, siempre en búsqueda de crecer y aprender nuevos lenguajes, frameworks y herramientas para desarrollar soluciones eficientes y modernas.
 
 💡 Tecnologías y herramientas
 
@@ -32,28 +30,6 @@ Soy Marcos Bazán Fernández, desarrollador junior de Madrid, España. Apasionad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-
-💼 Qué contiene este repositorio
-
-Este repositorio almacena los archivos de configuración para mi perfil de GitHub (por ejemplo: README, temas de perfil, gráficos de estadísticas).
-También sirve como punto central donde muestro mis habilidades, tecnologías que uso y una vista rápida de mi portafolio.
-
-🔍 Cómo ver el proyecto
-
-Clona este repositorio:
-
-git clone https://github.com/marcosbazan/marcos318888.git
-
-
-Abre el archivo README.md o visualízalo directamente en GitHub.
-
-Visita mi sitio web para ver mi portafolio en acción: https://marcosbazan.netlify.app
-
-🚀 Qué sigue
-
-Estoy trabajando en incorporar mis proyectos completos (frontend, backend, apps móviles) a otros repositorios, donde podrás ver código funcional, demos y tutoriales.
-
-Si te interesa colaborar, revisar proyectos o simplemente decir hola, ¡estaré encantado de conectar!
 
 ✉️ Contacto
 
