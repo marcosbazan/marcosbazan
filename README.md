@@ -25,7 +25,7 @@ Apasionado por la tecnología, siempre en búsqueda de crecer y aprender nuevos 
 
 ## 🧰 Herramientas y Otros
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,linux,anaconda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 </p>
