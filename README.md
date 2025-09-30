@@ -8,15 +8,30 @@ Soy Marcos Bazán Fernández, desarrollador junior de Madrid, España. Apasionad
 
 💡 Tecnologías y herramientas
 
-🛠️ Tecnologías
-🎨 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" /> </p>
-⚙️ Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,flask" /> </p>
-🗄️ Bases de Datos
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" /> </p>
-🧰 Herramientas y Otros
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,figma,linux,anaconda,drupal" /> </p>
+# 🛠️ Tecnologías
+
+## 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+</p>
+
+## ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,flask" />
+</p>
+
+## 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+## 🧰 Herramientas y Otros
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+</p>
+
 
 💼 Qué contiene este repositorio
 
