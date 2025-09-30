@@ -29,7 +29,7 @@ Soy Marcos Bazán Fernández, desarrollador junior de Madrid, España. Apasionad
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 
